@@ -1,0 +1,16 @@
+if (5 < 3)
+{
+	val = 23;
+	if (false < true)
+	{
+		val1 = 2;
+		for (i = 0; i < 5; i++)
+		{
+			val1 = val * 3;
+			if (val1 > val)
+			{
+				val1 = val;
+			}
+		}
+	}
+}

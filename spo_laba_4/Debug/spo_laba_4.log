@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\pavel\desktop\spo_laba_4\spo_laba_4\main.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  lexer.cpp
+c:\users\pavel\desktop\spo_laba_4\spo_laba_4\lexer.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\pavel\desktop\spo_laba_4\spo_laba_4\lexer.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  spo_laba_4.vcxproj -> C:\Users\Pavel\Desktop\spo_laba_4\Debug\spo_laba_4.exe
+  spo_laba_4.vcxproj -> C:\Users\Pavel\Desktop\spo_laba_4\Debug\spo_laba_4.pdb (Partial PDB)

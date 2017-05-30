@@ -1,0 +1,13 @@
+for (i = 0; i < 10; i++)
+{
+	a = a * 3;
+	b = b / 6;
+	if (true < false)
+	{
+		par = 850;
+	}
+	if (false > 20)
+	{
+		par1 = 34 - 23;
+	}
+}

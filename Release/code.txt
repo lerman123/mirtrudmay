@@ -1,0 +1,16 @@
+if (true > 5)
+{
+	bam = 100;
+	if ( false < 100)
+	{
+		bim = 5;
+		for (i = 0; i < 20; i++)
+		{
+			bim = bam + 3;
+			if (bim > bam)
+			{
+				bim = bam;
+			}
+		}
+	}
+}
